@@ -33,8 +33,8 @@ function Rating({ handleSubmitRating }) {
             <button
               key={rating.key}
               className={
-                'text-medium-grey rounded-full w-8 h-8 hover:bg-very-dark-blue ' +
-                (rating.isActive ? 'text-white bg-orange hover:bg-orange' : 'bg-slate-700')
+                'text-medium-grey rounded-full w-8 h-8 ' + (rating.isActive ? 'hover: bg-orange ' : 'hover:bg-very-dark-blue ') +
+                (rating.isActive ? 'text-white bg-orange ' : 'bg-slate-700')
               }
               onClick={() => handleClick(index)}
             >
