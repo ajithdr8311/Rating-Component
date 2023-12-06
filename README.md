@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/ajithdr8311/Rating-Component)
+- [Live Site URL](https://tubular-strudel-2e8a7f.netlify.app)
 
 ### Built with
 
